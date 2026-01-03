@@ -5,3 +5,4 @@ Datasets:
 Create a folder called Datasets and paste the datasets downloaded from the below links
 
 Titanic: https://www.kaggle.com/datasets/yasserh/titanic-dataset?resource=download
+Adult census income: https://www.kaggle.com/datasets/uciml/adult-census-income
